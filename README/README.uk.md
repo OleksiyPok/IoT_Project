@@ -11,7 +11,7 @@
 
 | Компонент | Опис                                        | Репозиторій                                                             |
 | --------- | ------------------------------------------- | ----------------------------------------------------------------------- |
-| **FW**    | Прошивка ESP32                              | [Відкрити FW](https://github.com/OleksiyPok/IoT_FW/tree/hw/hw-06)       |
+| **FW**    | Прошивка ESP32                              | [Відкрити FW](https://github.com/OleksiyPok/IoT_FW/tree/main)       |
 | **BE**    | Backend API та сервіси                      | [Відкрити BE](https://github.com/OleksiyPok/IoT_BE)                     |
 | **FE**    | Frontend-сторінка (інтегрована у бекенд)    | [Відкрити FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static)|
 | **DOC**   | Документація проєкту та архітектура         | [Відкрити DOC](https://github.com/OleksiyPok/IoT_Project)               |
