@@ -4,6 +4,8 @@
 
 Central entry point for the complete project: firmware, backend, frontend, and documentation.
 
+<img src="./images/iot.png" alt="AWS example data" width="700" style="border-radius: 22px;">
+
 ## Components
 
 | Component | Description                                        | Repository                                                           |
