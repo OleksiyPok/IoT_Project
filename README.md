@@ -13,20 +13,12 @@ Central entry point for the complete project: firmware, backend, frontend, and d
 | **FE**    | Frontend application (integrated into the backend)| [Open FE](ВСТАВИТЬ_ССЫЛКУ_FE)   |
 | **DOC**   | Project documentation and architecture | [Open DOC](ВСТАВИТЬ_ССЫЛКУ_DOC) |
 
-## Project Branches
-
-| Branch             | Description              | Link                                            |
-| ------------------ | ------------------------ | ----------------------------------------------- |
-| `full-project`     | Main project overview    | [Open branch](ВСТАВИТЬ_ССЫЛКУ_FULL_PROJECT)     |
-| `main`             | Main development branch  | [Open branch](ВСТАВИТЬ_ССЫЛКУ_MAIN)             |
-| `previous-version` | Previous project version | [Open branch](ВСТАВИТЬ_ССЫЛКУ_PREVIOUS_VERSION) |
-
 ## Repository Structure
 
 - **FW** — firmware and embedded software.
-- **BE** — backend application, API, and database models.
+- **BE** — backend application, API.
 - **FE** — frontend application and user interface (integrated into the backend).
-- **DOC** — technical documentation, architecture diagrams, and specifications.
+- **DOC** — technical documentation, architecture diagrams.
 
 ## Notes
 
