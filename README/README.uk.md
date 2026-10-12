@@ -5,7 +5,7 @@
 Центральна точка входу до всього проєкту: прошивки, бекенду, фронтенду та документації.
 
 
-<img src="../images/iot.png" alt="AWS example data" width="700" style="border-radius: 22px;">
+<img src="../images/iot_02.png" alt="AWS example data" width="700" style="border-radius: 22px;">
 
 ## Компоненти
 
