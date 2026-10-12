@@ -8,9 +8,9 @@ Central entry point for the complete project: firmware, backend, frontend, and d
 
 | Component | Description                            | Repository                      |
 | --------- | -------------------------------------- | ------------------------------- |
-| **FW**    | ESP32 firmware                         | [Open FW](ВСТАВИТЬ_ССЫЛКУ_FW)   |
-| **BE**    | Backend API and services               | [Open BE](ВСТАВИТЬ_ССЫЛКУ_BE)   |
-| **FE**    | Frontend application (integrated into the backend)| [Open FE](ВСТАВИТЬ_ССЫЛКУ_FE)   |
+| **FW**    | ESP32 firmware                         | [Open FW](https://github.com/OleksiyPok/IoT/tree/hw/hw-06)   |
+| **BE**    | Backend API and services               | [Open BE](https://github.com/OleksiyPok/IoT_BE)   |
+| **FE**    | Frontend application (integrated into the backend)| [Open FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static)   |
 | **DOC**   | Project documentation and architecture | [Open DOC](ВСТАВИТЬ_ССЫЛКУ_DOC) |
 
 ## Repository Structure
