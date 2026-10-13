@@ -8,12 +8,13 @@ Central entry point for the complete project: firmware, backend, frontend, and d
 
 ## Components
 
-| Component | Description                                        | Repository                                                           |
-| --------- | -------------------------------------------------- | -------------------------------------------------------------------- |
-| **FW**    | ESP32 firmware                                     | [Open FW](https://github.com/OleksiyPok/IoT_FW/tree/main)        |
-| **BE**    | Backend API and services                           | [Open BE](https://github.com/OleksiyPok/IoT_BE)                      |
-| **FE**    | Frontend application (integrated into the backend) | [Open FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static) |
-| **DOC**   | Project documentation and presentation file        | [Open DOC](https://github.com/OleksiyPok/IoT_Project)                |
+| Component   | Description                                        | Repository                                                                          |
+| ----------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **FW**      | ESP32 firmware                                     | [Open FW](https://github.com/OleksiyPok/IoT_FW/tree/main)                           |
+| **BE**      | Backend API and services                           | [Open BE](https://github.com/OleksiyPok/IoT_BE)                                     |
+| **FE**      | Frontend application (integrated into the backend) | [Open FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static)                |
+| **Grafana** | Grafana json progect                               | [Open Frafana](https://github.com/OleksiyPok/IoT_BE/tree/main/grafana/grafana.json) |
+| **DOC**     | Project documentation and presentation file        | [Open DOC](https://github.com/OleksiyPok/IoT_Project)                               |
 
 ## Repository Structure
 
