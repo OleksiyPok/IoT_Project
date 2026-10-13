@@ -15,7 +15,7 @@
 | **Presentation** | Презентація проекту                      | [Відкрити PDF](https://github.com/OleksiyPok/IoT_Project/tree/main/presentation.pdf)    |
 | **FW**           | Прошивка ESP32                           | [Відкрити FW](https://github.com/OleksiyPok/IoT_FW/tree/main)                           |
 | **BE**           | Backend API та сервіси                   | [Відкрити BE](https://github.com/OleksiyPok/IoT_BE)                                     |
-| **FE**           | Frontend-сторінка (інтегрована у бекенд) | [Відкрити FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static)                |
+| **FE**           | Frontend-сторінка (інтегрована у бекенд) | [Відкрити FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static/led_control.html)                |
 | **Grafana**      | Grafana json файл проекту                | [Відкрити Grafana](https://github.com/OleksiyPok/IoT_BE/tree/main/grafana/grafana.json) |
 
 

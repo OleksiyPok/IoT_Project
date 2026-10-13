@@ -14,7 +14,7 @@ Central entry point for the complete project: firmware, backend, frontend, and d
 | **Presentation** | Presentation                                       | [Open PDF](https://github.com/OleksiyPok/IoT_Project/tree/main/presentation.pdf)    |
 | **FW**           | ESP32 firmware                                     | [Open FW](https://github.com/OleksiyPok/IoT_FW/tree/main)                           |
 | **BE**           | Backend API and services                           | [Open BE](https://github.com/OleksiyPok/IoT_BE)                                     |
-| **FE**           | Frontend application (integrated into the backend) | [Open FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static)                |
+| **FE**           | Frontend application (integrated into the backend) | [Open FE](https://github.com/OleksiyPok/IoT_BE/tree/main/app/static/led_control.html)                |
 | **Grafana**      | Grafana json progect                               | [Open Frafana](https://github.com/OleksiyPok/IoT_BE/tree/main/grafana/grafana.json) |
 
 ## Repository Structure
